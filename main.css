@@ -1,8 +1,9 @@
 .uno{
-  padding: 50px;
-  height: 50px;
-  width: 200px;
-  border: 20px solid yellow;
+  border: 5px solid orange;
+  text-align: center;
+  padding:10px;
+  width: 180px
+  ;
 
 }
 
@@ -13,12 +14,4 @@ height: 50px;
 width: 200px;
 object-position: right;
 }
-    
-    /*display: block;
-padding-left: 10px;
-padding-right: 100px;
-margin-top: 5px;
-margin-bottom: 10px;
-margin:auto;
-
-}
+ 
