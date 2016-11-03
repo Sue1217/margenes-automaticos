@@ -8,10 +8,12 @@
 }
 
 .dos{
-border: 20px solid yellow;
-padding: 50px;
-height: 50px;
-width: 200px;
-object-position: right;
+border: 5px solid orange;
+text-align: center;
+padding:10px;
+width: 180px;
+margin: 0px auto;;
 }
- 
+p{
+    
+} 
